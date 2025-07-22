@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+
+# API secrets
+*.key
+*.pem
+*.json
+
+# Images
+*.jpg
+*.png
+
+# Output files
+response.json
+
+# System/IDE
+.DS_Store
+*.swp
+.idea/
+.vscode/
